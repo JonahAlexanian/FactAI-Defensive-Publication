@@ -9,3 +9,6 @@ This repository contains the original technical disclosure submitted to SSRN and
 ## Contents
 - `FactAI.pdf`: Full technical disclosure
 - `LICENSE`: Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+## Paradigm & Philosophy
+- [Extended Human Intelligence: A New Paradigm Beyond AGI](docs/extended-human-intelligence.md)
